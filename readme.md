@@ -76,5 +76,5 @@ in modular division so `9/4 (mod 9)` is the same as `[ 9 * (4^-1 (mod 9)) ] (mod
 
  In this repo you can find various implementation of modular multiplicative inverse written in Python but also in Rust. There are also couple of examples on how to calc modular multiplicative inverse on "paper".
 
- (Feel free to correct me if there is typo or smth else :). This repo will be progresivelly updated. )
+ (Feel free to correct me if there is typo or smth else :). This repo will be updateed progressively. )
 
